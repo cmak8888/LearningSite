@@ -1,5 +1,7 @@
 # LearningSite
-Back end storage service for Chronicle. Includes data access to H2 Database and media storage and retrieval to S3 bucket.
+Start up Website of compiled learning notes and documentation.
+Front end developed with React.
+Back end developed in Java.
 
 Documentation is in the Wiki
 
